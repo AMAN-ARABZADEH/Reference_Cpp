@@ -1,5 +1,11 @@
 #include <iostream>
+
 // References:
+/*
+ * Auther: Aman Arabzadeh
+ * Date: 2023-07-08
+ *  Examples and explanations of using  Reference in C++ for Beginners
+ */
 // "References (C++)" on Wikipedia: https://en.wikipedia.org/wiki/Reference_(C%2B%2B)
 // "C++ References" on GeeksforGeeks: https://www.geeksforgeeks.org/references-in-c/
 // "The C++ Programming Language" by Bjarne Stroustrup (Book)
