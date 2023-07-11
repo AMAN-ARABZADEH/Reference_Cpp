@@ -52,6 +52,9 @@ To learn more about references in C++ and further enhance your knowledge, you ca
 - [References (C++) on Wikipedia](https://en.wikipedia.org/wiki/Reference_(C%2B%2B))
 - [C++ References on GeeksforGeeks](https://www.geeksforgeeks.org/references-in-c/)
 - "The C++ Programming Language" by Bjarne Stroustrup
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 Happy learning and exploring the power of references in C++!
 
